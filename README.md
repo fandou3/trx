@@ -1,8 +1,8 @@
-自动化USDT兑换TRX的Telegram机器人 完整功能 https://t.me/kexuejia3
-联系我 https://t.me/kexuejia3
-TG红包雷 可自助充值 提现 ：https://t.me/kexuejia3
-TG索引机器人，telegram超级索引群组:https://t.me/kexuejia3
-TG验群,算账,代摇快三牛牛三公推机器人，telegram验群群组:https://t.me/kexuejia3
+自动化USDT兑换TRX的Telegram机器人 完整功能 https://t.me/daoxu
+联系我 https://t.me/daoxu
+TG红包雷 可自助充值 提现 ：https://t.me/daoxu
+TG索引机器人，telegram超级索引群组:https://t.me/daoxu
+TG验群,算账,代摇快三牛牛三公推机器人，telegram验群群组:https://t.me/daoxu
 功能：完完全全自主配置，自主控制的tg trx能量商城会员兑换机器人
 
 usdt闪兑机器人，可配置多个机器人，设置不同的汇率，自动进货，设置黑钱包，最大和最低兑换金额，预支等功能
